@@ -1,0 +1,18 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<!-- <context-param>
+	<param-name>MESSAGE</param-name>
+	<param-value>HELLO</param-value>
+	</context-param> -->
+	
+
+  
+    <welcome-file-list>
+		<welcome-file>loginJdbc.html</welcome-file>
+		
+	</welcome-file-list>
+  
+</web-app>
